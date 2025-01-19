@@ -1,0 +1,184 @@
+{
+  "apartments": [
+    {
+      "id": "1",
+      "image_url": "assets/images/apartment1.png",
+      "description": "Современная 3-комнатная квартира в ЖК Хайвил",
+      "address": "пр. Мангилик Ел, 54",
+      "price": 350000,
+      "rooms": 3,
+      "area": 95.5,
+      "city": "Астана",
+      "owner": {
+        "id": "1",
+        "name": "Асланбек",
+        "photo_url": "assets/images/owner1.png"
+      }
+    },
+    {
+      "id": "2",
+      "image_url": "assets/images/apartment2.png",
+      "description": "Уютная 2-комнатная квартира в центре",
+      "address": "ул. Кенесары, 25",
+      "price": 280000,
+      "rooms": 2,
+      "area": 65.0,
+      "city": "Астана",
+      "owner": {
+        "id": "2",
+        "name": "Айсултан",
+        "photo_url": "assets/images/owner2.jpg"
+      }
+    },
+    {
+      "id": "3",
+      "image_url": "assets/images/apartment3.png",
+      "description": "Просторная 4-комнатная квартира с видом на Байтерек",
+      "address": "пр. Кабанбай батыра, 11",
+      "price": 450000,
+      "rooms": 4,
+      "area": 120.0,
+      "city": "Астана",
+      "owner": {
+        "id": "3",
+        "name": "Абильмансур",
+        "photo_url": "assets/images/owner3.jpg"
+      }
+    },
+    {
+      "id": "4",
+      "image_url": "assets/images/apartment4.png",
+      "description": "Стильная студия в ЖК Expo Plaza",
+      "address": "ул. Сауран, 42",
+      "price": 190000,
+      "rooms": 1,
+      "area": 40.0,
+      "city": "Астана",
+      "owner": {
+        "id": "4",
+        "name": "Азамат",
+        "photo_url": "assets/images/owner4.jpg"
+      }
+    },
+    {
+      "id": "5",
+      "image_url": "assets/images/apartment5.png",
+      "description": "Премиум 3-комнатная квартира в ЖК Esentai",
+      "address": "пр. Аль-Фараби, 77/1",
+      "price": 520000,
+      "rooms": 3,
+      "area": 110.0,
+      "city": "Алматы",
+      "owner": {
+        "id": "5",
+        "name": "Мейиржан",
+        "photo_url": "assets/images/owner5.jpg"
+      }
+    },
+    {
+      "id": "6",
+      "image_url": "assets/images/apartment6.png",
+      "description": "Светлая 2-комнатная квартира в Медеуском районе",
+      "address": "ул. Достык, 160",
+      "price": 320000,
+      "rooms": 2,
+      "area": 75.0,
+      "city": "Алматы",
+      "owner": {
+        "id": "6",
+        "name": "Жанерке",
+        "photo_url": "assets/images/owner6.jpg"
+      }
+    },
+    {
+      "id": "7",
+      "image_url": "assets/images/apartment7.png",
+      "description": "Видовая квартира в ЖК Байсал",
+      "address": "ул. Сатпаева, 90/20",
+      "price": 280000,
+      "rooms": 2,
+      "area": 68.0,
+      "city": "Алматы",
+      "owner": {
+        "id": "7",
+        "name": "Рахат",
+        "photo_url": "assets/images/owner7.jpg"
+      }
+    },
+    {
+      "id": "8",
+      "image_url": "assets/images/apartment8.png",
+      "description": "Современные апартаменты в центре",
+      "address": "ул. Желтоксан, 115",
+      "price": 420000,
+      "rooms": 3,
+      "area": 95.0,
+      "city": "Алматы",
+      "owner": {
+        "id": "1",
+        "name": "Асланбек",
+        "photo_url": "assets/images/owner1.png"
+      }
+    },
+    {
+      "id": "9",
+      "image_url": "assets/images/apartment9.png",
+      "description": "Элитная квартира в ЖК Millennium Park",
+      "address": "пр. Туран, 37",
+      "price": 480000,
+      "rooms": 4,
+      "area": 130.0,
+      "city": "Астана",
+      "owner": {
+        "id": "2",
+        "name": "Айсултан",
+        "photo_url": "assets/images/owner2.jpg"
+      }
+    },
+    {
+      "id": "10",
+      "image_url": "assets/images/apartment10.png",
+      "description": "Стильный лофт в историческом центре",
+      "address": "ул. Панфилова, 98",
+      "price": 290000,
+      "rooms": 2,
+      "area": 80.0,
+      "city": "Алматы",
+      "owner": {
+        "id": "3",
+        "name": "Абильмансур",
+        "photo_url": "assets/images/owner3.jpg"
+      }
+    },
+    {
+      "id": "11",
+      "image_url": "assets/images/apartment11.png",
+      "description": "Семейная квартира с панорамными окнами",
+      "address": "ул. Сыганак, 63",
+      "price": 380000,
+      "rooms": 3,
+      "area": 105.0,
+      "city": "Астана",
+      "owner": {
+        "id": "4",
+        "name": "Азамат",
+        "photo_url": "assets/images/owner4.jpg"
+      }
+    },
+    {
+      "id": "12",
+      "image_url": "assets/images/apartment12.png",
+      "description": "Уютная квартира в ЖК AFD Plaza",
+      "address": "пр. Абая, 150/230",
+      "price": 245000,
+      "rooms": 2,
+      "area": 70.0,
+      "city": "Алматы",
+      "owner": {
+        "id": "5",
+        "name": "Мейиржан",
+        "photo_url": "assets/images/owner5.jpg"
+      }
+    }
+  ]
+}
