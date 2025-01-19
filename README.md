@@ -1,22 +1,22 @@
-# AzaHomes
+# AzaHomes🏠
 
 A Flutter application for renting apartments in Astana and Almaty. It uses:
 - Local DB (Hive)
 - BLoC state management
 
-## Features
+## Features✨
 - Browse apartments stored in a local Hive database.
 - Filter and sort apartment listings using Flutter BLoC.
 - Carousel of featured apartments.
 
-## Getting Started
-1. Clone the repository.
-2. Run `flutter pub get` to install dependencies.
-3. Run `flutter pub run build_runner build` to generate Hive adapters.
-4. Launch the app with `flutter run`.
+## Getting Started 🚀
+1. Clone the repository. 💻
+2. Run flutter pub get to install dependencies. 📦
+3. Run flutter pub run build_runner build to generate Hive adapters. 🛠️
+4. Launch the app with flutter run. ▶️
 
 Please include the following images in the app directory for it to run correctly:
-owner1.png, owner2.jpg, owner3.jpg, owner4.jpg, owner5.jpg, owner6.jpg, owner7.jpg
+owner1.png, owner2.jpg, owner3.jpg, owner4.jpg, owner5.jpg, owner6.jpg, owner7.jpg 🖼️
 
 ## Screenshots
 ![Home Screen](assets/screenshots/home-screen.jpg)
