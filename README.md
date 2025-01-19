@@ -19,10 +19,8 @@ Please include the following images in the app directory for it to run correctly
 owner1.png, owner2.jpg, owner3.jpg, owner4.jpg, owner5.jpg, owner6.jpg, owner7.jpg
 
 ## Screenshots
-![Home Screen](assets/images/screenshot_home.png)
-![Apartment Details](assets/images/screenshot_details.png)
-![Home Screen v2](assets/screenshots/home-screen.jpg)
-![Apartment Details v2](assets/screenshots/apartment-details-screen.jpg)
+![Home Screen](assets/screenshots/home-screen.jpg)
+![Apartment Details](assets/screenshots/apartment-details-screen.jpg)
 ![Dates Selection](assets/screenshots/dates-selection-screen.jpg)
 ![Reservation Success](assets/screenshots/reservation-success-message-screen.jpg)
 ![City Choice](assets/screenshots/city-choice-screen.jpg)
