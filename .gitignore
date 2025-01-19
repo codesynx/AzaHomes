@@ -31,7 +31,7 @@ migrate_working_dir/
 .flutter-plugins-dependencies
 .pub-cache/
 .pub/
-/build/
+build/
 
 # Symbolication related
 app.*.symbols
@@ -43,3 +43,12 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Image files to ignore
+/assets/images/owner1.png
+/assets/images/owner2.jpg
+/assets/images/owner3.jpg
+/assets/images/owner4.jpg
+/assets/images/owner5.jpg
+/assets/images/owner6.jpg
+/assets/images/owner7.jpg
